@@ -1,2 +1,1 @@
-# atlantis-register
-Atlantis kayıt botu Striga Register
+fazla sorgulama çalıntı kanka
