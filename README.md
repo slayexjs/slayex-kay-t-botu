@@ -1,2 +1,2 @@
-# slayex-kay-t-botu
-fazla sorgulama çalıntı kod
+# atlantis-register
+Atlantis kayıt botu Striga Register
